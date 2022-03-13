@@ -3,13 +3,15 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "86a81ea5a9613332cd247fb8398ab66d",
+  "assets/AssetManifest.json": "9bd347302012909728b0ba76bb015e22",
+"assets/assets/airport_pin.png": "9619135ac17784ad1738113d2a201349",
 "assets/assets/icons/notifications_icon.svg": "7e0cab1dcc45538cc0ce843ea1da9e62",
 "assets/assets/icons/user_profile_icon.svg": "3e4618249527afc9c55ae96cd5887606",
-"assets/assets/image_for_del/13642.jpg": "42a616fe6e1c32eb8804f093290ed72b",
+"assets/assets/image_for_del/13642.jpg": "13b9e5e79d3c4010fc8e1ae562923f98",
 "assets/assets/image_for_del/flag.png": "9f95d68e1ed6e88b3aa881c848c96371",
 "assets/assets/logo.svg": "959e4b8e45a4c1d4a33e294b276e7d01",
 "assets/assets/map_theme.json": "392dabe7d3c5510dadc845310dbe23d0",
+"assets/assets/parking_pin.png": "4d7ac3fd2c3e6f954dba526004a6763e",
 "assets/FontManifest.json": "3ba95e877e8d977ed295b7a8efefeff7",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
 "assets/NOTICES": "f17b952213c45904ae013a8c049d33a5",
@@ -49,9 +51,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "691b80a664d9e923cb8689e96507da64",
-"/": "691b80a664d9e923cb8689e96507da64",
-"main.dart.js": "589af88862d02033914225f5cae8455b",
+"index.html": "02b27da6f870ee6822d42394da285699",
+"/": "02b27da6f870ee6822d42394da285699",
+"main.dart.js": "e0f43754b69ef18fa73aaacf82dc20ca",
 "manifest.json": "eff919cea78bcd9dca533133a6266f38",
 "version.json": "9ad7eababa4bf0fc5dfc5af8e4f456e7"
 };
